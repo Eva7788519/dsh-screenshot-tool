@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Screenshot",
+    "description": "Captures the Windows desktop to a PNG file and hands the path to the model."
+  }
+}
