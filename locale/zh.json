@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "截图",
+    "description": "把 Windows 桌面截成 PNG 文件，并把路径交给模型读取。"
+  }
+}
